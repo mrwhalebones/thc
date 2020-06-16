@@ -22,6 +22,8 @@ sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
 sudo apt-get update 
 
+Use these next commands to download and install the binaries.
+
 wget "https://github.com/mrwhalebones/thc/releases/download/V1.0/thecoin-daemon-linux.tar.gz" -O thecoin-daemon-linux.tar.gz 
 
 wget "https://github.com/mrwhalebones/thc/releases/download/V1.0/thecoin-qt-linux.tar.gz" -O thecoin-qt-linux.tar.gz 
