@@ -1,0 +1,2 @@
+debian/bin/thecoind usr/bin
+src/thecoind usr/lib/thecoin

@@ -1,0 +1,5 @@
+thecoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/thecoin-qt.desktop usr/share/applications
+debian/thecoin-qt.protocol usr/share/kde4/services/
