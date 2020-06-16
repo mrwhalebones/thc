@@ -39,9 +39,9 @@ nano $HOME/.thecoin/thecoin.conf
 
 Copy and paste this into the .conf file you just created
 
-rpcuser=rpc_thecoin
+rpcuser=randomuser
 
-rpcpassword=69c863e3356d3dae95df454a1
+rpcpassword=randompass
 
 rpcallowip=127.0.0.1
 
