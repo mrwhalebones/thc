@@ -39,16 +39,25 @@ mkdir $HOME/.thecoin
 nano $HOME/.thecoin/thecoin.conf 
 
 
-Copy and paste this into the .conf file you just created
+Copy and paste this into the .conf file you just created and remove any extra lines or spaces.
 
-rpcuser=randomuser:
-rpcpassword=randompass:
-rpcallowip=127.0.0.1:
-listen=1:
-server=1:
-txindex=1:
-daemon=1:
+rpcuser=randomuser
 
-Now run the daemon with this command
+rpcpassword=randompass
+
+rpcallowip=127.0.0.1
+
+listen=1
+
+server=1
+
+txindex=1
+
+daemon=1
+
+
+Now run the daemon with this command.
 
 thecoind
+
+Happy mining and staking!
