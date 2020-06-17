@@ -47,6 +47,8 @@ rpcpassword=randompass
 
 rpcallowip=127.0.0.1
 
+rpcport=20349
+
 listen=1
 
 server=1
