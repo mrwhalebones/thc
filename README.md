@@ -2,6 +2,14 @@ TheCoin Aims to support cannabis seeds sales worldwide with private growers and 
 
 The goal of the project is offering a decentralized system that rewards you with the availability of trade to seeds on the website https://thethccoin.com/
 
+Other Official Links here:
+
+https://bitcointalk.org/index.php?topic=5255871.new#new BTCANN
+
+https://thexplorer.thethccoin.com/ EXPLORER
+
+
+
 Name: TheCoin
 
 Ticker: THC
