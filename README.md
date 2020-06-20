@@ -36,11 +36,11 @@ Block reward (PoW): 50 coins
 
 Block reward (PoS): 15 coins
 
-Coin supply from PoW: 38000 coins
+Coin supply from PoW: 38000~ coins (less due to POS block rewards)
 
 Coin supply from PoS: Indefinite
 
-Last PoW block: block 760
+Last PoW block: block 759( live update (hardcoded 1000))
 
 Min. stake age: 5 hours
 
