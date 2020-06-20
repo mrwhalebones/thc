@@ -2,6 +2,56 @@ TheCoin Aims to support cannabis seeds sales worldwide with private growers and 
 
 The goal of the project is offering a decentralized system that rewards you with the availability of trade to seeds on the website https://thethccoin.com/
 
+Name: TheCoin
+
+Ticker: THC
+
+Compiling OS: Ubuntu 18.04 LTS
+
+Algorithm:   Scrypt
+
+Block type: Proof-of-Work/Proof-of-Stake
+
+Coin name: TheCoin
+
+Coin abbreviation: THC
+
+Address letter: T
+
+Address letter testnet: C
+
+RPC port: 20349
+
+P2P port: 20350
+
+Block reward (PoW): 50 coins
+
+Block reward (PoS): 15 coins
+
+Coin supply from PoW: 38000 coins
+
+Coin supply from PoS: Indefinite
+
+Last PoW block: block 760
+
+Min. stake age: 5 hours
+
+Max. stake age:   Unlimited
+
+Coinbase maturity: 24 blocks
+
+Target spacing for PoW: 5 minutes
+
+Target timespan: Average 25 minutes on a 30 day period
+
+Transaction confirmations:   23 blocks
+
+Node 1   
+137.220.32.227
+Node 2
+155.138.233.183
+
+
 Below are guidelines for setting up a linux node. I tried to make things as simple as possible to build, if you are knowledgeable in compiling, this will be a breeze.
 
 Enter these commands to update, upgrade, and install required libraries and dependencies on your VPS
