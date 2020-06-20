@@ -6,7 +6,11 @@ Other Official Links here:
 
 https://bitcointalk.org/index.php?topic=5255871.new#new BTCANN
 
+https://github.com/mrwhalebones/thc GITHUB
+
 https://thexplorer.thethccoin.com/ EXPLORER
+
+https://twitter.com/TheCoin16 TWITTER
 
 
 
